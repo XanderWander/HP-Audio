@@ -1,0 +1,9 @@
+main: com.hp.audio.Main
+name: HP-Audio
+version: 0.0.1
+author: XanderWander
+api-version: 1.16
+depend: [ HP-Kotlin ]
+commands:
+  audio:
+    description: Audio server
